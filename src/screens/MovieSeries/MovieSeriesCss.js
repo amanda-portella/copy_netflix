@@ -34,8 +34,8 @@ export const BoxButtons = styled(Box)`
 
 export const ButtonPlay = styled(Button)`
     align-self: flex-start;
-    padding: 10px 30px;
-    font-size: 18px;
+    padding: 10px 20px;
+    font-size: 16px;
     background-color: #FFF;
     color: #111;
     font-weight: bold;
@@ -46,13 +46,14 @@ export const ButtonCircle = styled(IconButton)`
     border: 1px solid #FFF;
     border-radius: 50%;
     color: #FFF;
-    padding: 15px 15px;
+    padding: 12px 12px;
 `
 
 export const BoxInfo = styled(Box)`
     padding-left: 30px;
     padding-right: 30px;
-    margin-top: -300px;
+    margin-top: -200px;
+    margin-bottom: 50px;
     display: flex;
     justify-content: space-between;
 `
