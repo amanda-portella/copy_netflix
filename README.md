@@ -34,4 +34,6 @@ Ao longo do desenvolvimento do projeto, foi sendo feito comparação a plataform
   -  ``HTML``
   -  ``CSS``
   -  ``Javascript``
-  -  ``Api Themoviedb.org`` 
+  -  ``Api Themoviedb.org``
+  -  ``Mui Material``
+  -  ``Styled components do mui material``
