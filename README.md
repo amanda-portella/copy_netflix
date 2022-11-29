@@ -1,7 +1,7 @@
 # :clapper:Cópia Netflix
 ![Badge Concluído](https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-red)
 
-Esse projeto foi desenvolvido a partir de uma live da B7Web. O intuito do projeto foi fazer uma clone da página principal da Netflix.
+Esse projeto foi desenvolvido a partir de uma live da B7Web. O intuito do projeto foi fazer uma clone da página principal da Netflix, usando React JS e Javascript, junto com HTML e CSS.
 
  ![Página principal do projeto](https://i.imgur.com/0H6k8NY.png)
 
