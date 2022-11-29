@@ -10,7 +10,7 @@ export const BoxImageBackground = styled(Box)`
 `;
 
 export const BoxContainerAll = styled(Box)`
-    height: 80px; 
+    height: 70px; 
     position: absolute; 
     top: 1px; 
     left: 0px; 
