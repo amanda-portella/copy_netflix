@@ -4,6 +4,10 @@
 Esse projeto foi desenvolvido a partir de uma live da B7Web. O intuito do projeto foi fazer uma clone da página principal da Netflix, usando React JS e Javascript, junto com HTML e CSS.
 
  ![Página principal do projeto](https://i.imgur.com/0H6k8NY.png)
+ 
+### 	:film_strip:Deploy do projeto
+
+https://copy-netflix-amanda-portella.vercel.app/
 
 ### 	:film_strip: Sobre
 
@@ -24,10 +28,6 @@ Ao longo do desenvolvimento do projeto, foi sendo feito comparação a plataform
 ***Todos os direitos de imagem são da Netflix***
 
 ***Todos os dados consumidos são da api Themoviedb.org***
-
-### 	:film_strip:Deploy do projeto
-
- https://copy-netflix-amanda-portella.vercel.app/
  
 ### :heavy_check_mark:Técnicas e tecnologias usadas
   -  ``React Js``
