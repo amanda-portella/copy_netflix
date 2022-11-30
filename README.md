@@ -15,6 +15,8 @@ https://copy-netflix-amanda-portella.vercel.app/
 
 Ao longo do desenvolvimento do projeto, foi sendo feito comparação a plataforma Netflix, a algumas partes do layout desse projeto que diferem da Netflix, isso dá por não haver informações completas dos dados. Então decidi adaptar algumas coisas mas que de alguma forma lembrasse a Netflix.
 
+A página de login e de mais informações de série ou filme ainda não estão responsivas, somente a página do inicial.
+
 ### 	:film_strip: Funcionalidades
   -  ``Carrossel``
   -  ``Checagem simples de login``
